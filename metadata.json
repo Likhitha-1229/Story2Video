@@ -1,0 +1,6 @@
+{
+  "name": "Story2Video AI",
+  "description": "Transform your story or idea into a complete, structured video production plan with scene-by-scene prompts, characters, dialogue, and camera directions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
